@@ -1,0 +1,12 @@
+# Fichiers contenant des secrets
+.env
+
+# Dossiers de dépendances
+node_modules/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
